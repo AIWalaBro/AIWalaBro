@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+My+GitHub+Profile!+😀)](https://git.io/typing-svg)
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<h1 align="center">I'm your AI Partner aka: AIWalaBro 😀</h1>
+<h1 align="center">I'm your AI Partner: AIWalaBro 😀</h1>
 <h4 align="center">I'm a Data Scientist/GenerativeAI Engineer</h4>
 
 🏆 Generative AI Solution Architect | 🔮 Data Scientist | ❖ Machine Learning |  ❖ Project Management | ❖ Natural Language Processing | ❖ MLOps | ❖ Business Analysis | ❖ Product Development | ❖ Visionary Enterprise Architect
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <br>
 
 
-#:fire: My 📊 GitHub Stats:
+# :fire: My 📊 GitHub Stats:
 
 <div>
   <img src="https://badges.pufler.dev/years/AIWalaBro" alt="Years Badge"  /> 
@@ -87,6 +87,6 @@ Here are some ideas to get you started:
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
-![Mayank snake gif](https://github.com/mayankchugh-learning/mayankchugh-learning/blob/main/github-contribution-grid-snake.svg)
+![AIWalaBro](https://github.com/AIWalaBro/AIWalaBro/blob/main/github-contribution-grid-snake.svg)
 
   
