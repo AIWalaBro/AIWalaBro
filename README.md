@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=AIWalaBro&label=PROFILE+VIEWS)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AIWalaBro&label=Profile%20views&color=0e75b6&style=flat" alt="AIWalaBro" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AIWalaBro" alt="AIWalaBro" /></a> </p>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+My+GitHub+Profile!+😀)](https://git.io/typing-svg)
 
