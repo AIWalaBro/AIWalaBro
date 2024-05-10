@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently working Generative AI, MLOPS, Data Analytics...
-- 📫 How to reach me: <a href="mailto:aiwalabro@gmail.com">aiwalabro@gmail.com</a> 
+- 📫 How to reach me: <a href="mailto:bharat.genai@gmail.com">bharat.genai@gmail.com</a> 
 - ⚡ In my free time, I love to learn new technologies.
 
 
