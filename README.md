@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 
 </div>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/AIWalaBro/AIWalaBro/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
 
 
