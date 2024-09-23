@@ -79,6 +79,20 @@ Here are some ideas to get you started:
 </div>
 
 
+### 🔝 Top Contributed Repo
+<div align = "center">
+
+
+![](https://github-contributor-stats.vercel.app/api?username=AIWalaBro&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AIWalaBro&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
+
+### Watch my contribution graph get eaten by the snake 🐍
+
+![AIWalaBro snake gif](https://github.com/AIWalaBro/AIWalaBro/blob/main/github-contribution-grid-snake.svg)
 
 
 
